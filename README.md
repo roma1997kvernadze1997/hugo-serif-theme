@@ -145,7 +145,7 @@ You can edit the logo from the `config.toml`
     mobile_height = "36px"
     desktop = "images/logo/logo.svg"
     desktop_height = "36px"
-    alt = "Serif - A Hugo Business Theme"
+    alt = "Lucky"
 ```
 ### Favicon
 
